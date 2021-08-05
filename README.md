@@ -27,6 +27,6 @@ in this menu we can select our option
   <li>text spammer</li>
 </ol>
 
-the tool have a instructions of the use
+just we select and the tool will give us instructions
 
 #### BYE...........
