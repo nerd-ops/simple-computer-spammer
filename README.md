@@ -18,6 +18,7 @@ this is a tool that clicks and sends messages in such a way that it can be spam
 # how do we use it?
 
 okay, we have a menu
+
 <img alt="CPT" src="https://raw.githubusercontent.com/nerd-ops/simple-computer-spammer/main/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png">
 
 in this menu we can select our option 
