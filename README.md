@@ -1,2 +1,26 @@
 # simple-computer-spammer
 this is a tool that clicks and sends messages in such a way that it can be spam
+<ul type="square">
+  <li>autoclick</li>
+  <li>text spammer</li>
+</ul>
+## it is very easy to install
+<ul type="square">
+  <li><code>sudo apt-get install python3</code></li>
+  <li><code>cd simple-computer-spammer</code></li>
+  <li><code>pip3 install -r requirements.txt</code></li>
+  <li><code>python3 main.py</code></li>
+</ul>
+# how do we use it?
+okay, we have a menu
+<img alt="CPT" src="">
+
+in this menu we can select our option 
+<ol>
+  <li>autoclick</li>
+  <li>text spammer</li>
+</ol>
+
+the tool have a instructions of the use
+
+#### BYE...........
